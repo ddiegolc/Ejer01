@@ -1,4 +1,4 @@
-# Ejer01
+# Ejer1
 
 ## Este es el ejercicio de Entornos de Desarrollo que tenemos que hacer en casa
 
