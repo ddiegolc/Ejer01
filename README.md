@@ -12,5 +12,13 @@ Tenemos que:
 
 
 
+<<<<<<< HEAD
 Modificación para la rama 1
+=======
+
+
+
+
+Modificación para la rama 2
+>>>>>>> Rama2
 
