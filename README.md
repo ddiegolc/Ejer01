@@ -1,6 +1,6 @@
 # Ejer01
 
-##Este es el ejercicio de Entornos de Desarrollo que tenemos que hacer en casa
+## Este es el ejercicio de Entornos de Desarrollo que tenemos que hacer en casa
 
 Tenemos que:
 
